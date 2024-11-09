@@ -1,4 +1,4 @@
-# Les 5 Peurs de l’Apprenant en Formation
+# Les 5 Peurs de l’Apprenant en Formations
 
 Avant de démarrer une session de formation, il est nécessaire de calmer les craintes éventuelles des participants.
 
@@ -23,5 +23,5 @@ Avant de démarrer une session de formation, il est nécessaire de calmer les cr
 
 > **Recommandation** : Consacrer du temps au début de la formation pour soigner le démarrage et lancer la dynamique de groupe.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4ODY0MTE4XX0=
+eyJoaXN0b3J5IjpbLTcyOTcyMDY5MSw1Nzg4NjQxMThdfQ==
 -->
