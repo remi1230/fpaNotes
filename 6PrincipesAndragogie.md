@@ -1,4 +1,4 @@
-# Les six principe d’andragogie
+# Les six principes d’andragogie
 
 Les six principes d’andragogie appliqués à la supervision.
 L’andragogie se réfère à la formation des adultes et aux principes liés à l’apprentissage des adultes.
@@ -72,5 +72,6 @@ Le climat d’apprentissage est informel, détendu, convivial, centré sur l’e
 
 Dans l’ensemble, le superviseur soutient le stagiaire dans ses apprentissages et maintient un équilibre entre les exigences du stage et le degré d’autonomie qu’il lui laisse (Health Nexus Santé, 2003 ; Boufettal et al., 2009).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzY1ODcwNSwxOTE2MDE0NTkwXX0=
+eyJoaXN0b3J5IjpbMTkxNjAxNDU5MCwtOTA3NjU4NzA1LDE5MT
+YwMTQ1OTBdfQ==
 -->
