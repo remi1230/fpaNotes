@@ -1,4 +1,4 @@
-# Acronymes
+# Acronyme
 
 ### **Institutions et Organismes de Formation**
 
@@ -81,6 +81,6 @@
 -   **MT** : Manager de Transition – Cadre embauché temporairement, souvent formé pour développer des compétences spécifiques rapidement.
 -   **TP** : Travailleur Permanent – Employé en CDI qui bénéficie de dispositifs de formation continue dans le cadre du développement des compétences.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODAwODU3OCwtMjA0Mjk0ODYxMywxMT
-I4MDA4NTc4XX0=
+eyJoaXN0b3J5IjpbLTIwNDI5NDg2MTMsMTEyODAwODU3OCwtMj
+A0Mjk0ODYxMywxMTI4MDA4NTc4XX0=
 -->
