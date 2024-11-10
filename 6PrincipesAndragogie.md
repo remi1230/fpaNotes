@@ -41,37 +41,37 @@ La planification de l’expérience d’apprentissage, et lorsque la relation su
 ### 3. L’apprentissage repose sur des expériences vécues.
 Le stagiaire a accumulé, au fil des ans, un bagage expérientiel qui teinte les nouveaux apprentissages et qui constitue, une richesse. De plus, l’apprentissage se réalise mieux s’il part d’un problème ou d’une difficulté à résoudre.
 Les stratégies spécifiques sont :
-• Reconnaitre et utiliser les compétences du stagiaire. Ceci favorise l’application des connaissances déjà acquises à la nouvelle situation d’apprentissage.
-• Donner au stagiaire de fréquentes occasions de parler de ses expériences de stage antérieures et en tenir compte dans le choix des situations cliniques.
+- Reconnaitre et utiliser les compétences du stagiaire. Ceci favorise l’application des connaissances déjà acquises à la nouvelle situation d’apprentissage.
+- Donner au stagiaire de fréquentes occasions de parler de ses expériences de stage antérieures et en tenir compte dans le choix des situations cliniques.
 ### 4. L’apprentissage s’accompagne de réflexion.
 Le stagiaire apprécie réfléchir à ses apprentissages antérieurs pour les autoévaluer et en tirer des conclusions et des principes. Il fait valoir la pratique réflexive, une méthode andragogique reconnue.
 Les stratégies spécifiques sont :
-• Reconnaitre et permettre les échanges sur le vécu et les acquis (les trois savoirs) du stagiaire se rapportant à ses expériences d’apprentissage.
-• S’assurer que le stagiaire a l’occasion et les outils nécessaires pour réfléchir à ses apprentissages, ses idées et ses expériences.
-• Conclure chaque période d’apprentissage par un retour sur ce que le stagiaire veut apprendre pour acquérir les compétences visées.
-• Évaluer le stagiaire à l’aide d’une approche coopérative, ce qui met en valeur l’autoévaluation.
+- Reconnaitre et permettre les échanges sur le vécu et les acquis (les trois savoirs) du stagiaire se rapportant à ses expériences d’apprentissage.
+- S’assurer que le stagiaire a l’occasion et les outils nécessaires pour réfléchir à ses apprentissages, ses idées et ses expériences.
+- Conclure chaque période d’apprentissage par un retour sur ce que le stagiaire veut apprendre pour acquérir les compétences visées.
+- Évaluer le stagiaire à l’aide d’une approche coopérative, ce qui met en valeur l’autoévaluation.
 
 ### 5. L’apprentissage repose sur le respect du stagiaire.
 La reconnaissance de la valeur des expériences de vie et de travail que le stagiaire apporte au stage et la confiance mutuelle sont des signes de respect à son égard. Il doit être traité comme un égal.
 Les stratégies spécifiques sont :
-• S’assurer que le stagiaire se sente respecté, accepté et valorisé par son superviseur de stage, ainsi que par le personnel du milieu de stage. Faire valoir ses forces lorsque pertinent.
-• Faire appel à l’expérience du stagiaire et l’enrichir.
-• Traiter le stagiaire en fonction de ses capacités et non de son niveau scolaire.
-• L’amener à faire des liens entre ce qu’il sait déjà et les nouvelles connaissances.
+- S’assurer que le stagiaire se sente respecté, accepté et valorisé par son superviseur de stage, ainsi que par le personnel du milieu de stage. Faire valoir ses forces lorsque pertinent.
+- Faire appel à l’expérience du stagiaire et l’enrichir.
+- Traiter le stagiaire en fonction de ses capacités et non de son niveau scolaire.
+- L’amener à faire des liens entre ce qu’il sait déjà et les nouvelles connaissances.
 
 ### 6. L’apprentissage se déroule dans une atmosphère de confiance.
 Le climat d’apprentissage est informel, détendu, convivial, centré sur l’estime de soi et les besoins du stagiaire. Ce dernier doit se sentir libre d’émettre ses opinions au superviseur.
 **Les stratégies spécifiques sont :**
-• Encourager le stagiaire à être ouvert et honnête par rapport à lui-même et à ses expériences.
-• Lui expliquer que les différences de toutes sortes constituent une richesse et sont souhaitables.
-• Expliquer au stagiaire que les erreurs sont normales et font partie du processus d’apprentissage.
-• Apporter soutien et collaboration tout au long du stage.
-• Établir un climat où les discussions ouvertes sont valorisées et perçues comme une méthode d’apprentissage.
+- Encourager le stagiaire à être ouvert et honnête par rapport à lui-même et à ses expériences.
+- Lui expliquer que les différences de toutes sortes constituent une richesse et sont souhaitables.
+- Expliquer au stagiaire que les erreurs sont normales et font partie du processus d’apprentissage.
+- Apporter soutien et collaboration tout au long du stage.
+- Établir un climat où les discussions ouvertes sont valorisées et perçues comme une méthode d’apprentissage.
 
-• Donner au stagiaire l’occasion de pratiquer les habiletés nouvellement acquises dans un environnement sécuritaire et aidant.
+- Donner au stagiaire l’occasion de pratiquer les habiletés nouvellement acquises dans un environnement sécuritaire et aidant.
 
 Dans l’ensemble, le superviseur soutient le stagiaire dans ses apprentissages et maintient un équilibre entre les exigences du stage et le degré d’autonomie qu’il lui laisse (Health Nexus Santé, 2003 ; Boufettal et al., 2009).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1Nzg2Nzk5LC05MDc2NTg3MDUsMTkxNj
-AxNDU5MCwtOTA3NjU4NzA1LDE5MTYwMTQ1OTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTE3OTk3NzEsLTkwNzY1ODcwNSwxOT
+E2MDE0NTkwLC05MDc2NTg3MDUsMTkxNjAxNDU5MF19
 -->
