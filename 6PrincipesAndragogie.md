@@ -16,9 +16,9 @@ Voici les six principes andragogiques :
 ### 1. L’apprentissage correspond à ce que le stagiaire veut.
 Le stagiaire connait ses besoins et il veut prendre son apprentissage en main. Ses comportements sont orientés vers un but pertinent et pratique pour lui. Il mettra l’accent sur les aspects d’un apprentissage qui lui sont utiles dans son travail. Par exemple, il préfère orienter son apprentissage vers des situations réelles et des rôles sociaux.
 Les stratégies spécifiques sont :
-• Dès le début du processus d’apprentissage, établir ensemble les connaissances, les forces et les compétences du stagiaire ; après quoi, établir les besoins et les déficiences à combler. Cet exercice permettra d’orienter les activités d’apprentissage.
-• Établir des buts et des objectifs d’apprentissage selon ce que le stagiaire veut savoir, ressent et maitrise déjà.
-• Évaluer l’atteinte des objectifs conjointement avec le stagiaire et modifier les objectifs au gré des expériences d’apprentissage.
+- Dès le début du processus d’apprentissage, établir ensemble les connaissances, les forces et les compétences du stagiaire ; après quoi, établir les besoins et les déficiences à combler. Cet exercice permettra d’orienter les activités d’apprentissage.
+- Établir des buts et des objectifs d’apprentissage selon ce que le stagiaire veut savoir, ressent et maitrise déjà.
+- Évaluer l’atteinte des objectifs conjointement avec le stagiaire et modifier les objectifs au gré des expériences d’apprentissage.
 
 © 2013, Consortium national de formation en santé (CNFS) - Volet Université d’Ottawa. Tous droits réservés.
 2
@@ -29,14 +29,14 @@ Le stagiaire est autonome et autodidacte. Il apprend mieux lorsqu’il joue un r
 La planification de l’expérience d’apprentissage, et lorsque la relation superviseur-stagiaire est égalitaire (chacun apporte un bagage). Il aime déterminer ses objectifs d’apprentissage et participer à l’évaluation de son apprentissage.
 
 **Les stratégies spécifiques sont :**
-• Promouvoir une prise de décision participative pendant l’expérience d’apprentissage (par ex offrir des choix de situations cliniques en fonction de divers apprentissages pour acquérir les compétences visées).
+- Promouvoir une prise de décision participative pendant l’expérience d’apprentissage (par ex offrir des choix de situations cliniques en fonction de divers apprentissages pour acquérir les compétences visées).
 
-• Aider le stagiaire à trouver diverses façons de développer ses compétences et de prendre en main son apprentissage.
+- Aider le stagiaire à trouver diverses façons de développer ses compétences et de prendre en main son apprentissage.
 
-• Permettre au stagiaire de poser des questions et l’amener à trouver les réponses.
-• Permettre au stagiaire d’articuler, de formuler et de clarifier ses idées.
+- Permettre au stagiaire de poser des questions et l’amener à trouver les réponses.
+- Permettre au stagiaire d’articuler, de formuler et de clarifier ses idées.
 
-• Utiliser des activités d’apprentissage permettant au stagiaire de découvrir le sens des activités cliniques auxquelles il participe. Par exemple faire une carte conceptuelle de son raisonnement à la suite d’une décision clinique.
+- Utiliser des activités d’apprentissage permettant au stagiaire de découvrir le sens des activités cliniques auxquelles il participe. Par exemple faire une carte conceptuelle de son raisonnement à la suite d’une décision clinique.
 
 ### 3. L’apprentissage repose sur des expériences vécues.
 Le stagiaire a accumulé, au fil des ans, un bagage expérientiel qui teinte les nouveaux apprentissages et qui constitue, une richesse. De plus, l’apprentissage se réalise mieux s’il part d’un problème ou d’une difficulté à résoudre.
@@ -72,6 +72,6 @@ Le climat d’apprentissage est informel, détendu, convivial, centré sur l’e
 
 Dans l’ensemble, le superviseur soutient le stagiaire dans ses apprentissages et maintient un équilibre entre les exigences du stage et le degré d’autonomie qu’il lui laisse (Health Nexus Santé, 2003 ; Boufettal et al., 2009).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzY1ODcwNSwxOTE2MDE0NTkwLC05MD
-c2NTg3MDUsMTkxNjAxNDU5MF19
+eyJoaXN0b3J5IjpbNzY1Nzg2Nzk5LC05MDc2NTg3MDUsMTkxNj
+AxNDU5MCwtOTA3NjU4NzA1LDE5MTYwMTQ1OTBdfQ==
 -->
