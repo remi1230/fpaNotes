@@ -57,7 +57,7 @@ L’organisation inclut également une réflexion sur les **méthodes pédagogiq
 
 ### 5. Cahier des Clauses Techniques et Administratives Communes (CCTAC)
 
-Lorsqu’une formation pour adultes est proposée dans le cadre d’un appel d’offres public (OPA), le **CCTAC** devient essentiel. Ce document fixe des normes de qualité et de transparence pour les organismes de formation qui répondent à l’appel d’offres, et peut être publié par exemple par les Plans Régionaux de Formation (PRF). Le CCTAC inclut :
+Lorsqu’une formation pour adultes est proposée dans le cadre d’un appel d’offres public (OPA), le **CCTAC** devient essentiel. Ce document fixe des normes de qualité et de transparence pour les organismes de formation qui répondent à l’appel d’offres, et peut être publié par exemple dans le cadre d'un Plans Régionaux de Formation (PRF). Le CCTAC inclut :
 
 -   **Objectifs de la formation** : Compétences spécifiques que les apprenants doivent acquérir, en phase avec les besoins d’employabilité et de performance du secteur.
 -   **Contenu pédagogique** : Description des modules et des méthodes d’apprentissage, comme les simulations et les études de cas, pour garantir une offre adaptée au public.
@@ -104,5 +104,6 @@ En adaptant ses méthodes aux différents styles d’apprentissage des apprenant
 
 La formation pour adultes est un processus structuré qui repose sur une analyse des besoins, une planification minutieuse, et une adaptation constante aux spécificités des apprenants adultes. En utilisant des méthodes variées, des dispositifs de financement et une posture de porteur, le formateur aide les adultes à acquérir des compétences pratiques et transférables, favorisant ainsi leur épanouissement personnel et professionnel.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTI1NjE3MSwyMDIwMDY4NjAxXX0=
+eyJoaXN0b3J5IjpbLTY0NDc0NTgwOCwtNzI1MjU2MTcxLDIwMj
+AwNjg2MDFdfQ==
 -->
