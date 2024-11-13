@@ -46,6 +46,7 @@
 -   **MOOC** : Massive Open Online Course – Cours en ligne ouvert à tous, souvent gratuit.
 -   **SPOC** : Small Private Online Course – Formation en ligne plus restreinte en nombre de participants que les MOOCs.
 -   **E-learning** : Enseignement à distance via des plateformes numériques.
+- **SMART**: Spécifique Mesurable Atteignable Réaliste Temporel 
 
 ### **Cadre Juridique et Réglementaire**
 
@@ -81,6 +82,6 @@
 -   **MT** : Manager de Transition – Cadre embauché temporairement, souvent formé pour développer des compétences spécifiques rapidement.
 -   **TP** : Travailleur Permanent – Employé en CDI qui bénéficie de dispositifs de formation continue dans le cadre du développement des compétences.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI5NDg2MTMsMTEyODAwODU3OCwtMj
-A0Mjk0ODYxMywxMTI4MDA4NTc4XX0=
+eyJoaXN0b3J5IjpbLTc5MDk0NTMwMCwtMjA0Mjk0ODYxMywxMT
+I4MDA4NTc4LC0yMDQyOTQ4NjEzLDExMjgwMDg1NzhdfQ==
 -->
