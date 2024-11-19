@@ -1,4 +1,59 @@
-## Le RGPD adapté au milieu de la formation
+# RGPD
+
+## **En général**
+
+Le **Règlement Général sur la Protection des Données (RGPD)** est une réglementation européenne entrée en vigueur le **25 mai 2018**, visant à renforcer et unifier la protection des données personnelles dans l’Union européenne (UE). Il s’applique à toutes les organisations, qu’elles soient situées dans ou hors de l’UE, dès lors qu’elles traitent les données personnelles de résidents européens.
+
+----------
+
+#### **Principes fondamentaux du RGPD**
+
+1.  **Licéité, loyauté et transparence** :
+    
+    -   Les données doivent être collectées de manière légale, avec le consentement explicite de la personne concernée, et l’utilisation des données doit être transparente.
+2.  **Limitation des finalités** :
+    
+    -   Les données personnelles doivent être collectées pour des finalités spécifiques, explicites et légitimes.
+3.  **Minimisation des données** :
+    
+    -   Seules les données strictement nécessaires doivent être collectées et traitées.
+4.  **Exactitude** :
+    
+    -   Les données doivent être tenues à jour et corrigées si nécessaire.
+5.  **Limitation de conservation** :
+    
+    -   Les données ne doivent pas être conservées plus longtemps que nécessaire au regard des finalités.
+6.  **Intégrité et confidentialité** :
+    
+    -   Les données doivent être protégées contre les accès non autorisés, la perte ou l’altération.
+7.  **Responsabilité (Accountability)** :
+    
+    -   Les organisations doivent être capables de prouver leur conformité au RGPD (traçabilité des traitements, audits, politiques internes).
+
+----------
+
+#### **Droits des personnes**
+
+Le RGPD donne aux individus un contrôle accru sur leurs données personnelles, avec des droits spécifiques, notamment :
+
+-   **Droit d’accès** : savoir quelles données sont collectées et comment elles sont utilisées.
+-   **Droit de rectification** : corriger des informations inexactes.
+-   **Droit à l’oubli** : demander la suppression des données.
+-   **Droit à la portabilité** : récupérer les données dans un format lisible et les transférer.
+-   **Droit d’opposition** : refuser certains traitements (exemple : à des fins de marketing).
+-   **Droit de limitation du traitement** : suspendre temporairement l’utilisation des données.
+
+----------
+
+#### **Sanctions**
+
+Le non-respect du RGPD peut entraîner des sanctions financières importantes :
+
+-   Jusqu’à **20 millions d’euros** ou **4 % du chiffre d’affaires annuel mondial**.
+
+----------
+
+## Dans le milieu de la formation
 
 Dans le secteur de la formation, les données personnelles des stagiaires, formateurs et autres parties prenantes sont souvent collectées et traitées. Voici comment le RGPD s’applique dans ce contexte spécifique.
 
@@ -94,5 +149,5 @@ Adopter le RGPD dans le secteur de la formation permet :
 
 La mise en conformité peut paraître complexe, mais elle est essentielle pour répondre aux attentes croissantes en matière de protection des données personnelles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNzI5Mjc0LC0xMTY2NzY5NjYzXX0=
+eyJoaXN0b3J5IjpbOTY2NTg5MiwtMTE2Njc2OTY2M119
 -->
