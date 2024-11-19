@@ -1,4 +1,4 @@
-# Le RGPD adapté au milieu de la formation
+## Le RGPD adapté au milieu de la formation
 
 Dans le secteur de la formation, les données personnelles des stagiaires, formateurs et autres parties prenantes sont souvent collectées et traitées. Voici comment le RGPD s’applique dans ce contexte spécifique.
 
@@ -94,5 +94,5 @@ Adopter le RGPD dans le secteur de la formation permet :
 
 La mise en conformité peut paraître complexe, mais elle est essentielle pour répondre aux attentes croissantes en matière de protection des données personnelles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY3Njk2NjNdfQ==
+eyJoaXN0b3J5IjpbNzIxNzI5Mjc0LC0xMTY2NzY5NjYzXX0=
 -->
