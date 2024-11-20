@@ -1,4 +1,4 @@
-# RSE
+# RSE : Responsabilité sociétale des entreprises
 
 ## 1. **Mission et utilité**
 
@@ -100,5 +100,5 @@
 
 Ces fondamentaux couvrent les aspects stratégiques, humains, environnementaux et économiques de la RSE. Leur mise en œuvre nécessite une approche intégrée, des outils de pilotage rigoureux et une communication active avec les parties prenantes. Ces principes favorisent la création de valeur partagée et renforcent la pérennité des entreprises.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA1NTg5MjksMTkwMTY0OTAwOV19
+eyJoaXN0b3J5IjpbMjAyNjM2NjIsMTkwMTY0OTAwOV19
 -->
