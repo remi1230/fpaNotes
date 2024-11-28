@@ -9,6 +9,7 @@
   - ### Confidentialité
 
 - ## Le questionnement
+Bloom peut être utilisé pour qualifier le niveau d'apprentissage.
   - ### Social
 	   → Veiller à la disponibilité du candidat au niveau de la durée de la formation, du déplacement, du financement et de l'indemnisation sur toute la durée. Questionner sa situation familiale lorsqu'elle impacte le financement ou la disponibilité lorsque par exemple le candidat a des enfants.
 	   
@@ -34,5 +35,5 @@ Le savoir-être, comme par exemple être à l'écoute.
 #### Compétences transférables :
 Compétences que l'on peut transférer d'un poste à l'autre, celle-ci doit être reconnue et validée.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODI0NDIwM119
+eyJoaXN0b3J5IjpbLTE0MDc0NjAxOTAsLTU5ODI0NDIwM119
 -->
