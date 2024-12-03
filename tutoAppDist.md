@@ -33,9 +33,6 @@
 **Coaching à la demande du stagiaire**  → Sortie positive = min CDD 6 mois dans les 6 mois suivant la fin de la formation
 - Un entretien 1 semaine après le stage
 - Le livret de stage signé et dûment rempli
- itre
-
-test
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjUxNzM2NSwyNTg4Njc5MzVdfQ==
+eyJoaXN0b3J5IjpbOTM5OTYxNzM1LDI1ODg2NzkzNV19
 -->
