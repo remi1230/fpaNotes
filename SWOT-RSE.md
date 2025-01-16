@@ -2,7 +2,8 @@
 
 La matrice SWOT (forces, faiblesses, opportunités, menaces) est souvent utilisée pour analyser les aspects internes et externes d’une entreprise. Si vous souhaitez créer une matrice SWOT spécifique à la Responsabilité Sociétale des Entreprises (RSE), voici un exemple de modèle :
 
-**1. Forces (Strengths)**
+---------
+## **1. Forces (Strengths)**
 
 -   **Engagement de la direction** : La direction de l’entreprise est fortement engagée envers la RSE, ce qui se traduit par une culture d’entreprise axée sur la responsabilité sociétale.
     
@@ -12,8 +13,8 @@ La matrice SWOT (forces, faiblesses, opportunités, menaces) est souvent utilis�
     
 -   **Partenariats stratégiques** : Des partenariats solides avec des organisations et des ONG qui partagent les mêmes valeurs, renforçant ainsi l’impact positif de l’entreprise.
     
-
-**2. Faiblesses (Weaknesses)**
+---------
+## **2. Faiblesses (Weaknesses)**
 
 -   **Manque de ressources dédiées** : La RSE peut souffrir d’un manque de ressources dédiées, avec des équipes limitées et des budgets restreints.
     
@@ -21,8 +22,8 @@ La matrice SWOT (forces, faiblesses, opportunités, menaces) est souvent utilis�
     
 -   **Dépendance aux ressources non renouvelables** : Si l’entreprise dépend fortement de ressources non renouvelables, cela peut constituer une faiblesse en termes de durabilité.
     
-
-**3. Opportunités (Opportunities)**
+---------
+## **3. Opportunités (Opportunities)**
 
 -   **Demande croissante de produits durables** : La demande croissante du marché pour des produits et services durables offre des opportunités de croissance pour l’entreprise.
     
@@ -30,8 +31,8 @@ La matrice SWOT (forces, faiblesses, opportunités, menaces) est souvent utilis�
     
 -   **Image de marque positive** : La RSE bien mise en œuvre peut améliorer l’image de marque de l’entreprise, attirant ainsi les clients sensibles aux enjeux sociaux et environnementaux.
     
-
-**4. Menaces (Threats)**
+---------
+## **4. Menaces (Threats)**
 
 -   **Concurrence accrue** : L’augmentation de la concurrence dans le domaine de la durabilité peut représenter une menace pour l’entreprise.
     
@@ -39,5 +40,5 @@ La matrice SWOT (forces, faiblesses, opportunités, menaces) est souvent utilis�
     
 -   **Réputation** : Les risques liés à la réputation, tels que les scandales liés à des pratiques non responsables, peuvent avoir des impacts négatifs sur l’image de l’entreprise.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODk1MTExMl19
+eyJoaXN0b3J5IjpbLTkwNDA0MDE1NCwtODg4OTUxMTEyXX0=
 -->
