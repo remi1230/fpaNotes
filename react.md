@@ -1,10 +1,10 @@
 # REACT
-### 1. **Contexte et Évolution du Titre**
+## 1. **Contexte et Évolution du Titre**
 
 -   Ce référentiel a évolué pour intégrer les changements liés aux nouvelles pratiques pédagogiques, notamment la formation à distance, la personnalisation des parcours et les pédagogies actives.
 -   Le titre est structuré en quatre activités types (AT) qui définissent les compétences nécessaires, en lien avec des exigences légales et de responsabilité sociale.
-
-### 2. **Description des Activités Types (AT)**
+----------
+## 2. **Description des Activités Types (AT)**
 
 -   **AT1 : Concevoir et Préparer la Formation**
     
@@ -21,8 +21,8 @@
 -   **AT4 : Inscrire sa Pratique dans une Démarche Qualité et RSE**
     
     -   Le formateur doit assurer la traçabilité des formations, veiller à la qualité et à la conformité réglementaire, et maintenir son expertise par la veille et l’auto-analyse.
-
-### 3. **Compétences Professionnelles**
+----------
+## 3. **Compétences Professionnelles**
 
 #### 1. **AT1 : Concevoir et Préparer la Formation**
 
@@ -48,14 +48,14 @@
 -   **Respecter et faire respecter la règlementation** : Veiller aux normes de sécurité et d’hygiène, s'assurer de la conformité des pratiques aux exigences de qualité.
 -   **Réaliser une veille pour maintenir son expertise** : Suivre l’actualité pédagogique, technologique et législative pour améliorer et adapter ses pratiques.
 -   **Analyser ses pratiques professionnelles** : S’appuyer sur des outils d’auto-évaluation pour identifier des axes d’amélioration, et intégrer les retours d'expérience pour adapter ses méthodes.
-
-### 4. **Compétences Transversales**
+----------
+## 4. **Compétences Transversales**
 
 -   **Communiquer efficacement** : Capacité à adapter son langage aux apprenants, à faciliter la compréhension, et à établir un climat de confiance.
 -   **Adopter une attitude orientée vers les autres** : Capacité d’écoute, bienveillance et respect des différences individuelles, pour adapter l’accompagnement aux besoins de chaque apprenant.
 -   **Organiser ses actions** : Gérer le temps, anticiper les besoins logistiques, adapter les ressources et les outils pour répondre aux objectifs pédagogiques et aux attentes du public.
-
-### 5. **Glossaire et Annexes**
+----------
+## 5. **Glossaire et Annexes**
 
 #### Glossaire technique
 -   **Activité d'évaluation** : Il s'agit d'une situation où l'apprenant effectue des tâches pour évaluer ses connaissances ou compétences selon des critères définis.
@@ -149,5 +149,5 @@
     
 -   **Titre professionnel** : Certification officielle attestant la maîtrise de compétences professionnelles et aptitudes nécessaires à un emploi​(REAC_FPA_V07_21122022).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODE3MDk0OF19
+eyJoaXN0b3J5IjpbOTk0MDUyNzA1LC00MTgxNzA5NDhdfQ==
 -->
