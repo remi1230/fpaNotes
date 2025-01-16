@@ -47,9 +47,10 @@ Le dossier de projet contient quatre chapitres, dont le nombre de pages exclut l
 -   Le dossier de veille comprend des sections sur le dispositif de veille, la cartographie des acteurs, et deux sujets de spécialité (un sur la formation professionnelle et un sur le domaine de spécialité du candidat).
 -   **Présentation orale (10 min)** : Obligations contractuelles, enjeux RSE et sécurité, suivie de **10 minutes de questions** du jury.
 
+Le document vise à structurer les preuves et à présenter de manière détaillée les compétences clés attendues, les choix pédagogiques et les démarches d'accompagnement du candidat.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDI5Nzg4MiwtMTI1NjM5NTM4NywtMT
+eyJoaXN0b3J5IjpbMTg5NzY5NTE4MywtMTI1NjM5NTM4NywtMT
 gwODUwODYwNF19
 -->
