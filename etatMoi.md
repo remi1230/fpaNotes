@@ -1,6 +1,6 @@
 # Les choix de comportement
 
-### **1. Les États du Moi**
+## **1. Les États du Moi**
 
 L'analyse transactionnelle repose sur trois grands états du moi, divisés selon des comportements, émotions et étapes du développement de la personnalité :
 
@@ -32,7 +32,7 @@ L'analyse transactionnelle repose sur trois grands états du moi, divisés selon
 
 ----------
 
-### **2. Origine des États du Moi**
+## **2. Origine des États du Moi**
 
 -   **Parent** : Formé par les apprentissages des figures parentales (règles, valeurs).
 -   **Adulte** : Naît de la capacité à penser par soi-même, à analyser les faits objectivement.
@@ -40,7 +40,7 @@ L'analyse transactionnelle repose sur trois grands états du moi, divisés selon
 
 ----------
 
-### **3. Aspects Positifs et Négatifs de Chaque État**
+## **3. Aspects Positifs et Négatifs de Chaque État**
 
 -   **Parent Normatif :**
     -   Positif : Fixe des règles et des limites nécessaires.
@@ -60,7 +60,7 @@ L'analyse transactionnelle repose sur trois grands états du moi, divisés selon
 
 ----------
 
-### **4. Résolution des Problèmes selon les États**
+## **4. Résolution des Problèmes selon les États**
 
 Chaque état contribue différemment à la résolution des problèmes :
 
@@ -72,7 +72,7 @@ Chaque état contribue différemment à la résolution des problèmes :
 
 ----------
 
-### **5. Les Positions de Vie**
+## **5. Les Positions de Vie**
 
 Quatre positions existent selon les interactions entre soi et autrui :
 
@@ -83,7 +83,7 @@ Quatre positions existent selon les interactions entre soi et autrui :
 
 ----------
 
-### **6. Questions pour Identifier sa Position**
+## **6. Questions pour Identifier sa Position**
 
 -   Comment réagissons-nous aux problèmes ?
 -   Quelle image avons-nous de nous-mêmes et des autres ?
@@ -91,11 +91,11 @@ Quatre positions existent selon les interactions entre soi et autrui :
 
 ----------
 
-### **7. Application Pratique**
+## **7. Application Pratique**
 
 -   Identifier quel état du moi domine dans une situation donnée.
 -   Apprendre à mobiliser l’Adulte pour équilibrer les apports des autres états.
 -   Reconnaître les positions négatives pour adopter une posture plus positive et collaborative.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc1NDQ2M119
+eyJoaXN0b3J5IjpbMTMzODIyMzgsLTExODc1NDQ2M119
 -->
