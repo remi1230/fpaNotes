@@ -64,7 +64,7 @@
     -   Travailler sur les moments clés et les informations nécessaires avant chaque exercice.
     -   Structurer les apprentissages pratiques et théoriques autour des étapes importantes.
 
-
+---------
 ## **2. Causes conatives (affectives et motivationnelles)**
 
 ### **2.1. Sentiment d’efficacité personnelle (SEP)**
@@ -88,7 +88,7 @@
     -   Partir d’exercices pratiques pour introduire la théorie.
     -   Contextualiser les apprentissages théoriques.
  
-
+---------
 ## **3. Causes psychosociales**
 
 ### **3.1. Styles d’apprentissage : Indépendance/Coopération**
@@ -111,7 +111,7 @@
 -   **Remédiation :**
     -   Diriger les apprenants vers des services sociaux ou de santé compétents.
 
-
+---------
 ## **4. Causes psychomotrices**
 
 ### **4.1. Postures et gestes professionnels**
@@ -127,5 +127,5 @@
 -   **Remédiation :**
     -   Travailler avec des professionnels de santé pour adapter les apprentissages.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTEzMzA0NV19
+eyJoaXN0b3J5IjpbMTg2NTYxODYwNiwtNzUxMTMzMDQ1XX0=
 -->
