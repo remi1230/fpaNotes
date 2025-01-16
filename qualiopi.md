@@ -1,5 +1,5 @@
 # QUALIOPI
-### **Critère 1** : Information au public sur les prestations proposées
+## **Critère 1** : Information au public sur les prestations proposées
 
 1.  Diffusion d'informations vérifiables : prérequis, objectifs, modalités, tarifs, accessibilité.
     
@@ -7,8 +7,8 @@
     
 3.  Information sur les taux de certification, blocs de compétences, équivalences et débouchés.
     
-
-### **Critère 2** : Identification des objectifs et adaptation aux bénéficiaires
+----------
+## **Critère 2** : Identification des objectifs et adaptation aux bénéficiaires
 
 4.  Analyse des besoins en lien avec l’entreprise ou le financeur.
     
@@ -20,8 +20,8 @@
     
 8.  Procédures de positionnement et d’évaluation des acquis en début de prestation.
     
-
-### **Critère 3** : Adaptation aux bénéficiaires des prestations, accompagnement et suivi
+----------
+## **Critère 3** : Adaptation aux bénéficiaires des prestations, accompagnement et suivi
 
 9.  Information des publics sur le déroulement des prestations.
     
@@ -39,8 +39,8 @@
     
 16.  Conformité des conditions de certification professionnelle.
     
-
-### **Critère 4** : Adéquation des moyens pédagogiques et techniques
+----------
+## **Critère 4** : Adéquation des moyens pédagogiques et techniques
 
 17.  Mise à disposition de moyens humains, techniques et d’un environnement adapté.
     
@@ -50,15 +50,15 @@
     
 20.  Personnel dédié à la mobilité, référent handicap et conseil de perfectionnement.
     
-
-### **Critère 5** : Qualification et développement des compétences des personnels
+----------
+## **Critère 5** : Qualification et développement des compétences des personnels
 
 21.  Évaluation des compétences des intervenants.
     
 22.  Développement continu des compétences des salariés.
     
-
-### **Critère 6** : Engagement dans l’environnement professionnel
+----------
+## **Critère 6** : Engagement dans l’environnement professionnel
 
 23.  Veille légale et réglementaire sur la formation professionnelle.
     
@@ -74,8 +74,8 @@
     
 29.  Actions favorisant l’insertion professionnelle ou la poursuite d’étude.
     
-
-### **Critère 7** : Prise en compte des appréciations et réclamations
+----------
+## **Critère 7** : Prise en compte des appréciations et réclamations
 
 30.  Recueil des appréciations des parties prenantes.
     
@@ -83,5 +83,5 @@
     
 32.  Mesures d’amélioration basées sur les appréciations et réclamations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU2OTMzMjRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk3ODc1OSwtMTQ1NTY5MzMyNF19
 -->
