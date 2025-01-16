@@ -83,6 +83,7 @@ Le financeur, après étude, décide d’accorder ou non la prise en charge part
 -   **Retour des apprenants** : Enquête de satisfaction ou feedback des participants.
 -   **Analyse de l’impact** : Revue des objectifs initiaux et des résultats obtenus.
 
+---------
 ## 7. RGPD
 ### 1. **Section dédiée à la Conformité RGPD**
 
@@ -134,5 +135,5 @@ La partie RGPD d’un dossier de consultation est essentielle pour démontrer qu
 
 Les dossiers de consultation sont essentiels dans la formation professionnelle en France. Ils garantissent la transparence et la qualité de la formation, facilitant ainsi le financement et permettant une réponse efficace aux exigences légales et professionnelles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1ODU3NDM3NiwyNDk3NDEwODVdfQ==
+eyJoaXN0b3J5IjpbMTczODI3NTMwOSwyNDk3NDEwODVdfQ==
 -->
