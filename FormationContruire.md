@@ -4,7 +4,7 @@ Une action de formation est un processus avec des objectifs pédagogiques, mis e
 
 ----------
 
-### Étapes pour construire une action de formation
+## Étapes pour construire une action de formation
 
 1.  **Détermination des objectifs de formation** :
     
@@ -25,7 +25,7 @@ Une action de formation est un processus avec des objectifs pédagogiques, mis e
 
 ----------
 
-### Andragogie : Apprentissage des adultes
+## Andragogie : Apprentissage des adultes
 
 L’andragogie, ou l'art d'enseigner aux adultes, repose sur plusieurs caractéristiques spécifiques :
 
@@ -58,9 +58,10 @@ L’évaluation peut être formative (en cours d’apprentissage) ou sommative (
 -   **Connaissances procédurales** : savoir comment réaliser une tâche.
 -   **Connaissances conditionnelles** : savoir quand et pourquoi utiliser des compétences dans des contextes spécifiques.
 
-### Conclusion
+----------
+## Conclusion
 
 Une action de formation efficace nécessite des objectifs clairement définis, des méthodes adaptées aux apprenants adultes et une évaluation continue des progrès. Les objectifs pédagogiques guident le formateur et permettent d'assurer que la formation réponde aux besoins des participants et atteigne ses buts initiaux.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjM4NzE5MV19
+eyJoaXN0b3J5IjpbMTQ1NTkwMjk1NiwxNDE2Mzg3MTkxXX0=
 -->
