@@ -2,7 +2,7 @@
 
 Le questionnement à partir de productions repose sur la préparation et la mise en œuvre d’une formation en situation réelle par le candidat. Les attentes relatives aux productions sont définies dans le descriptif du dossier technique et de la présentation orale. Si une seule formation ne couvre pas toutes les compétences visées, plusieurs formations peuvent être utilisées comme références.
 
-### Contexte :
+## Contexte :
 
 Le questionnement est organisé en quatre parties et évalue le candidat à partir de :
 
@@ -14,7 +14,7 @@ Le dossier de projet contient quatre chapitres, dont le nombre de pages exclut l
 
 ----------
 
-### 1. Évaluation de l’activité type « Concevoir et préparer la formation »
+## 1. Évaluation de l’activité type « Concevoir et préparer la formation »
 
 -   **Chapitre 1** : 8 à 12 pages, valide la compétence **« Élaborer la progression pédagogique d’une formation multimodale à partir d’une demande »**.
 -   Le candidat analyse une demande formelle ou informelle et décrit la progression pédagogique, les objectifs, les modalités et les durées.
@@ -23,7 +23,7 @@ Le dossier de projet contient quatre chapitres, dont le nombre de pages exclut l
 
 ----------
 
-### 2. Évaluation de l’activité type « Animer une formation et évaluer les acquis des apprenants »
+## 2. Évaluation de l’activité type « Animer une formation et évaluer les acquis des apprenants »
 
 -   **Chapitre 2** : 5 à 8 pages, valide la compétence **« Remédier aux difficultés individuelles d’apprentissage »**.
 -   Le candidat décrit une situation de remédiation, ses méthodes, les difficultés rencontrées et la stratégie adoptée.
@@ -32,7 +32,7 @@ Le dossier de projet contient quatre chapitres, dont le nombre de pages exclut l
 
 ----------
 
-### 3. Évaluation de l’activité type « Accompagner les apprenants en formation »
+## 3. Évaluation de l’activité type « Accompagner les apprenants en formation »
 
 -   **Chapitre 3** : 7 à 10 pages, valide la compétence **« Accompagner le développement professionnel des apprenants »**.
 -   Le candidat présente des situations d’apprentissage et des outils d’accompagnement, expliquant le déroulement et les ajustements apportés.
@@ -41,7 +41,7 @@ Le dossier de projet contient quatre chapitres, dont le nombre de pages exclut l
 
 ----------
 
-### 4. Évaluation de l’activité type « Inscrire sa pratique professionnelle dans une démarche de qualité et de responsabilité sociale des entreprises »
+## 4. Évaluation de l’activité type « Inscrire sa pratique professionnelle dans une démarche de qualité et de responsabilité sociale des entreprises »
 
 -   **Chapitre 4** : 10 à 15 pages, valide la compétence **« Réaliser une veille pour maintenir son expertise de formateur »**.
 -   Le dossier de veille comprend des sections sur le dispositif de veille, la cartographie des acteurs, et deux sujets de spécialité (un sur la formation professionnelle et un sur le domaine de spécialité du candidat).
@@ -49,5 +49,6 @@ Le dossier de projet contient quatre chapitres, dont le nombre de pages exclut l
 
 Le document vise à structurer les preuves et à présenter de manière détaillée les compétences clés attendues, les choix pédagogiques et les démarches d'accompagnement du candidat.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg1MDg2MDRdfQ==
+eyJoaXN0b3J5IjpbLTE0MDA5ODM0MzcsLTE4MDg1MDg2MDRdfQ
+==
 -->
