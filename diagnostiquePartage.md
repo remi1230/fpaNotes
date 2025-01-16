@@ -64,11 +64,13 @@ Le document **"Le Diagnostic Partagé"** est un livre blanc élaboré par La Bo�
     -   Accepter les moments d’incertitude pour favoriser l’émergence de solutions novatrices.
     -   Impliquer les participants dans les restitutions pour renforcer leur engagement.
 
-----------
-## Conclusion
 
+----------
+
+
+## Conclusion
 Ce livre blanc met en avant une démarche pragmatique et collaborative pour transformer des défis organisationnels complexes en opportunités de mobilisation et de changement. Il fournit une méthodologie structurée, adaptable aux besoins spécifiques des organisations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE4MTM1MDUsLTE2NDU1MDkwNTVdfQ
+eyJoaXN0b3J5IjpbLTE3MDUxMDM0MTcsLTE2NDU1MDkwNTVdfQ
 ==
 -->
