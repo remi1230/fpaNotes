@@ -126,14 +126,14 @@ Le financeur, après étude, décide d’accorder ou non la prise en charge part
 -   Le DPO est souvent le point de contact principal pour toute question relative à la gestion des données personnelles dans le cadre de la prestation.
 
 ----------
-### En résumé
+## En résumé
 
 La partie RGPD d’un dossier de consultation est essentielle pour démontrer que l’entreprise respecte la réglementation européenne sur la protection des données et qu’elle dispose de toutes les mesures nécessaires pour protéger les données personnelles. Elle permet de clarifier les pratiques de collecte, de traitement, de sécurisation, et de gestion des données en cas de sous-traitance, tout en garantissant les droits des personnes concernées.
 
 ----------
-### Conclusion
+## Conclusion
 
 Les dossiers de consultation sont essentiels dans la formation professionnelle en France. Ils garantissent la transparence et la qualité de la formation, facilitant ainsi le financement et permettant une réponse efficace aux exigences légales et professionnelles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODI3NTMwOSwyNDk3NDEwODVdfQ==
+eyJoaXN0b3J5IjpbMjEwMDI3MDg3NSwyNDk3NDEwODVdfQ==
 -->
