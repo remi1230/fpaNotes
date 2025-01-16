@@ -9,8 +9,8 @@
     
 4.  **Accommodation (Faire et Ressenti)** : Ce style d’apprentissage repose sur l’intuition et l’expérimentation. Les personnes avec ce style préfèrent agir et se basent souvent sur leur ressenti et leurs expériences. Elles tendent à compter sur les informations des autres et leur propre expérience pratique pour avancer.
     
-
-### Synthèse du Modèle de Kolb
+----------
+## Synthèse du Modèle de Kolb
 
 Le modèle de Kolb repose sur le principe que chaque individu possède une préférence pour l'un des styles d'apprentissage, qui se situe dans un continuum entre deux axes :
 
@@ -23,6 +23,7 @@ Kolb précise que même si chacun a un style préféré, les apprenants peuvent 
 
 En résumé, ce modèle aide à comprendre les préférences d'apprentissage et permet aux formateurs d’adapter leurs méthodes pour un apprentissage plus efficace et personnalisé.
 
+----------
 ## La méthode de Kolb
 
 La méthode de Kolb, ou **cycle de l’apprentissage expérientiel**, est un modèle théorique développé par David Kolb pour expliquer comment les individus apprennent par l'expérience. Ce modèle repose sur l'idée que l'apprentissage actif est un processus cyclique qui implique plusieurs étapes interdépendantes. Il est particulièrement pertinent dans les environnements où l'on souhaite favoriser un apprentissage pratique et interactif.
@@ -60,5 +61,6 @@ La méthode de Kolb est particulièrement utile dans des contextes où l'on veut
 
 En résumé, la méthode de Kolb met l’accent sur un **apprentissage actif et expérientiel**, en intégrant l’expérience concrète, la réflexion, la théorie et l’action. Elle permet de concevoir des environnements d’apprentissage dynamiques et adaptatifs, propices à une assimilation durable des connaissances et des compétences.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3ODQ3NTgsLTExNDE1ODM5NTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNDc5MDI4NTEsMzE3ODQ3NTgsLTExND
+E1ODM5NTBdfQ==
 -->
