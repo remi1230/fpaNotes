@@ -9,7 +9,7 @@
     -   Communiquer la mission aux parties prenantes et la traduire en actions concrètes.
 
 
-
+---------
 ## 2. **Éthique et transparence**
 
 -   **Description** : L’éthique guide les décisions et actions de l’entreprise, avec une transparence totale sur ses pratiques envers ses parties prenantes.
@@ -19,7 +19,7 @@
     -   Développer des mécanismes internes pour signaler les comportements non éthiques.
 
 
-
+---------
 ## 3. **Communauté et parties prenantes**
 
 -   **Description** : L’entreprise s’engage auprès de ses parties prenantes (clients, fournisseurs, communautés locales, etc.) pour répondre à leurs attentes et générer des impacts positifs.
@@ -29,7 +29,7 @@
     -   Soutenir des initiatives locales pour le développement économique ou social.
 
 
-
+---------
 ## 4. **Égalité, diversité et inclusion**
 
 -   **Description** : Promouvoir l’égalité des chances, la diversité et l’inclusion au sein de l’entreprise.
@@ -39,7 +39,7 @@
     -   Former les collaborateurs aux biais inconscients et à l’inclusion.
 
 
-
+---------
 ## 5. **Engagement des salariés**
 
 -   **Description** : Encourager les collaborateurs à s’impliquer dans la démarche RSE et à devenir acteurs du changement au sein de l’entreprise.
@@ -49,7 +49,7 @@
     -   Proposer des programmes de volontariat ou mécénat de compétences.
 
 
-
+---------
 ## 6. **Vie au travail**
 
 -   **Description** : Garantir un environnement de travail sain, épanouissant et stimulant, pour améliorer le bien-être des collaborateurs.
@@ -58,7 +58,7 @@
     -   Favoriser un équilibre entre vie professionnelle et vie personnelle (flexibilité, télétravail).
     -   Offrir des avantages sociaux (mutuelles, crèches, etc.).
 
-
+---------
 ## 7. **Empreinte environnementale**
 
 -   **Description** : Réduire les impacts environnementaux de l’entreprise tout au long de sa chaîne de valeur.
@@ -68,7 +68,7 @@
     -   Mettre en place des actions d’économie circulaire (réduction des déchets, recyclage).
 
 
-
+---------
 ## 8. **Philanthropie**
 
 -   **Description** : Participer à des initiatives caritatives ou de mécénat pour soutenir des causes sociales ou environnementales.
@@ -77,7 +77,7 @@
     -   Soutenir des associations à travers des dons ou des partenariats.
     -   Encourager les collaborateurs à contribuer à des initiatives solidaires.
 
-
+---------
 ## 9. **Pilotage et KPI’s**
 
 -   **Description** : Suivre la performance RSE à travers des indicateurs clés (KPI) pour évaluer l’impact des actions mises en œuvre.
@@ -86,7 +86,7 @@
     -   Suivre des indicateurs de diversité (égalité hommes-femmes, inclusion).
     -   Mettre en place un tableau de bord RSE avec des objectifs chiffrés.
 
-
+---------
 ## 10. **Labels et certifications**
 
 -   **Description** : Obtenir des labels ou certifications pour garantir la conformité aux normes RSE et renforcer la crédibilité des engagements.
@@ -95,10 +95,11 @@
     -   Obtenir des labels sociaux comme Great Place to Work.
     -   Communiquer sur les labels obtenus pour sensibiliser les parties prenantes.
 
-
+---------
 ## Synthèse
 
 Ces fondamentaux couvrent les aspects stratégiques, humains, environnementaux et économiques de la RSE. Leur mise en œuvre nécessite une approche intégrée, des outils de pilotage rigoureux et une communication active avec les parties prenantes. Ces principes favorisent la création de valeur partagée et renforcent la pérennité des entreprises.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjM2NjIsMTkwMTY0OTAwOV19
+eyJoaXN0b3J5IjpbMTA0MjE0MTc2LDIwMjYzNjYyLDE5MDE2ND
+kwMDldfQ==
 -->
