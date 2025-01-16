@@ -13,7 +13,7 @@ Les principes andragogiques de Knowles (1995) ont été repris par plusieurs aut
  Le fait d’appliquer chacun de ces principes permet de maintenir la motivation du stagiaire et de stimuler sa participation à titre d’apprenant actif.
 
 Voici les six principes andragogiques :
-### 1. L’apprentissage correspond à ce que le stagiaire veut.
+## 1. L’apprentissage correspond à ce que le stagiaire veut.
 Le stagiaire connait ses besoins et il veut prendre son apprentissage en main. Ses comportements sont orientés vers un but pertinent et pratique pour lui. Il mettra l’accent sur les aspects d’un apprentissage qui lui sont utiles dans son travail. Par exemple, il préfère orienter son apprentissage vers des situations réelles et des rôles sociaux.
 Les stratégies spécifiques sont :
 - Dès le début du processus d’apprentissage, établir ensemble les connaissances, les forces et les compétences du stagiaire ; après quoi, établir les besoins et les déficiences à combler. Cet exercice permettra d’orienter les activités d’apprentissage.
@@ -23,7 +23,8 @@ Les stratégies spécifiques sont :
 © 2013, Consortium national de formation en santé (CNFS) - Volet Université d’Ottawa. Tous droits réservés.
 2
 
-### 2. L’apprentissage est participatif.
+----------
+## 2. L’apprentissage est participatif.
 Le stagiaire est autonome et autodidacte. Il apprend mieux lorsqu’il joue un rôle actif dans la prise de décision et dans
 
 La planification de l’expérience d’apprentissage, et lorsque la relation superviseur-stagiaire est égalitaire (chacun apporte un bagage). Il aime déterminer ses objectifs d’apprentissage et participer à l’évaluation de son apprentissage.
@@ -38,28 +39,30 @@ La planification de l’expérience d’apprentissage, et lorsque la relation su
 
 - Utiliser des activités d’apprentissage permettant au stagiaire de découvrir le sens des activités cliniques auxquelles il participe. Par exemple faire une carte conceptuelle de son raisonnement à la suite d’une décision clinique.
 
-### 3. L’apprentissage repose sur des expériences vécues.
+----------
+## 3. L’apprentissage repose sur des expériences vécues.
 Le stagiaire a accumulé, au fil des ans, un bagage expérientiel qui teinte les nouveaux apprentissages et qui constitue, une richesse. De plus, l’apprentissage se réalise mieux s’il part d’un problème ou d’une difficulté à résoudre.
 Les stratégies spécifiques sont :
 - Reconnaitre et utiliser les compétences du stagiaire. Ceci favorise l’application des connaissances déjà acquises à la nouvelle situation d’apprentissage.
 - Donner au stagiaire de fréquentes occasions de parler de ses expériences de stage antérieures et en tenir compte dans le choix des situations cliniques.
-### 4. L’apprentissage s’accompagne de réflexion.
+----------
+## 4. L’apprentissage s’accompagne de réflexion.
 Le stagiaire apprécie réfléchir à ses apprentissages antérieurs pour les autoévaluer et en tirer des conclusions et des principes. Il fait valoir la pratique réflexive, une méthode andragogique reconnue.
 Les stratégies spécifiques sont :
 - Reconnaitre et permettre les échanges sur le vécu et les acquis (les trois savoirs) du stagiaire se rapportant à ses expériences d’apprentissage.
 - S’assurer que le stagiaire a l’occasion et les outils nécessaires pour réfléchir à ses apprentissages, ses idées et ses expériences.
 - Conclure chaque période d’apprentissage par un retour sur ce que le stagiaire veut apprendre pour acquérir les compétences visées.
 - Évaluer le stagiaire à l’aide d’une approche coopérative, ce qui met en valeur l’autoévaluation.
-
-### 5. L’apprentissage repose sur le respect du stagiaire.
+----------
+## 5. L’apprentissage repose sur le respect du stagiaire.
 La reconnaissance de la valeur des expériences de vie et de travail que le stagiaire apporte au stage et la confiance mutuelle sont des signes de respect à son égard. Il doit être traité comme un égal.
 Les stratégies spécifiques sont :
 - S’assurer que le stagiaire se sente respecté, accepté et valorisé par son superviseur de stage, ainsi que par le personnel du milieu de stage. Faire valoir ses forces lorsque pertinent.
 - Faire appel à l’expérience du stagiaire et l’enrichir.
 - Traiter le stagiaire en fonction de ses capacités et non de son niveau scolaire.
 - L’amener à faire des liens entre ce qu’il sait déjà et les nouvelles connaissances.
-
-### 6. L’apprentissage se déroule dans une atmosphère de confiance.
+----------
+## 6. L’apprentissage se déroule dans une atmosphère de confiance.
 Le climat d’apprentissage est informel, détendu, convivial, centré sur l’estime de soi et les besoins du stagiaire. Ce dernier doit se sentir libre d’émettre ses opinions au superviseur.
 **Les stratégies spécifiques sont :**
 - Encourager le stagiaire à être ouvert et honnête par rapport à lui-même et à ses expériences.
@@ -72,6 +75,7 @@ Le climat d’apprentissage est informel, détendu, convivial, centré sur l’e
 
 Dans l’ensemble, le superviseur soutient le stagiaire dans ses apprentissages et maintient un équilibre entre les exigences du stage et le degré d’autonomie qu’il lui laisse (Health Nexus Santé, 2003 ; Boufettal et al., 2009).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE3OTk3NzEsLTkwNzY1ODcwNSwxOT
-E2MDE0NTkwLC05MDc2NTg3MDUsMTkxNjAxNDU5MF19
+eyJoaXN0b3J5IjpbLTc1NDk4NjY5MywtMTM1MTc5OTc3MSwtOT
+A3NjU4NzA1LDE5MTYwMTQ1OTAsLTkwNzY1ODcwNSwxOTE2MDE0
+NTkwXX0=
 -->
