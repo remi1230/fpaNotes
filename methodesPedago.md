@@ -1,6 +1,6 @@
 # LES MÉTHODES ET OUTILS PÉDAGOGIQUES
 
-### LES MÉTHODES EXPOSITIVES
+## LES MÉTHODES EXPOSITIVES
 
 **Les techniques :**  
 C’est l’exposé classique. Les participants sont en position d’écoute.
@@ -24,7 +24,7 @@ Fiches d’exposés, transparents, audio-visuel (films, diapos).
 
 ----------
 
-### LES MÉTHODES DÉMONSTRATIVES
+## LES MÉTHODES DÉMONSTRATIVES
 
 S’appliquent à des objectifs de savoir-faire, de reproduction, de procédures ou de gestes.
 
@@ -47,7 +47,7 @@ Actions successives du formateur et des formés. Le formateur montre ou démontr
 
 ----------
 
-### LES MÉTHODES INTERROGATIVES
+## LES MÉTHODES INTERROGATIVES
 
 Elles conviennent à tous types d’objectifs, guident la progression des stagiaires, leur permettent de trouver eux-mêmes certaines réponses à leurs interrogations.
 
@@ -74,7 +74,7 @@ Liste de questions. EAO (enseignement assisté par ordinateur). Discussion de gr
 
 ----------
 
-### LES MÉTHODES ACTIVES
+## LES MÉTHODES ACTIVES
 
 Elles visent à faire produire des idées, solutions ou comportements par les participants en faisant appel à leur motivation ou à leur expérience.
 
@@ -101,5 +101,5 @@ Techniques de résolution de problèmes et de créativité. Brainstorming. Photo
 -   La synthèse et la mise en valeur des productions sont parfois délicates.
 -   L’implication psychologique des stagiaires est forte.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODMzODk3NV19
+eyJoaXN0b3J5IjpbLTk4OTM1MzkyNSwyMTI4MzM4OTc1XX0=
 -->
