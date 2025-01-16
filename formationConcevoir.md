@@ -4,7 +4,7 @@ L'élaboration d'une formation implique la construction d'un cahier des charges 
 
 ----------
 
-### Principales étapes du processus
+## Principales étapes du processus
 
 1.  **Analyse de la demande** :
     
@@ -59,5 +59,5 @@ L'élaboration d'une formation implique la construction d'un cahier des charges 
     
      - Comprend toutes les informations nécessaires à la préparation générale de la formation (contexte, enjeux, public, objectifs, pré-requis, contenu, évaluation, suivi) et des modules spécifiques.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg5MzQ2NjJdfQ==
+eyJoaXN0b3J5IjpbLTUwODYxMTYzNywtMTQyODkzNDY2Ml19
 -->
