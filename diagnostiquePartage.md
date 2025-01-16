@@ -11,7 +11,7 @@ Le document **"Le Diagnostic Partagé"** est un livre blanc élaboré par La Bo�
     -   Il s'appuie sur les perceptions variées des collaborateurs pour créer une vision globale et enrichie des problématiques.
     -   L'objectif est de résoudre durablement un problème en co-construisant des solutions alignées sur les besoins de tous.
 
-
+----------
 ## 2. **Pourquoi entreprendre un Diagnostic Partagé ?**
 
 -   **Situations pertinentes** :
@@ -25,7 +25,7 @@ Le document **"Le Diagnostic Partagé"** est un livre blanc élaboré par La Bo�
 -   **Limites** :
     -   Inadéquat en cas de sujets confidentiels, manque de temps, ou collaborateurs incapables de prendre du recul.
 
-
+----------
 ## 3. **Pour qui et par qui ?**
 
 -   **Cibles** :
@@ -35,7 +35,7 @@ Le document **"Le Diagnostic Partagé"** est un livre blanc élaboré par La Bo�
     -   Doivent être neutres, méthodiques, empathiques, et curieux d’apprendre.
     -   Doivent s'immerger dans la culture organisationnelle pour maximiser l’efficacité.
 
-
+----------
 ## 4. **Comment mener un Diagnostic Partagé ?**
 
 -   **Conditions préalables** :
@@ -53,7 +53,7 @@ Le document **"Le Diagnostic Partagé"** est un livre blanc élaboré par La Bo�
 -   **Postures des animateurs** :
     -   Faciliter, diagnostiquer, former, communiquer, et maintenir le focus sur l’essentiel.
 
-
+----------
 ## 5. **Résultats attendus**
 
 -   **Types de résultats** :
@@ -64,9 +64,11 @@ Le document **"Le Diagnostic Partagé"** est un livre blanc élaboré par La Bo�
     -   Accepter les moments d’incertitude pour favoriser l’émergence de solutions novatrices.
     -   Impliquer les participants dans les restitutions pour renforcer leur engagement.
 
+----------
 ## Conclusion
 
 Ce livre blanc met en avant une démarche pragmatique et collaborative pour transformer des défis organisationnels complexes en opportunités de mobilisation et de changement. Il fournit une méthodologie structurée, adaptable aux besoins spécifiques des organisations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTA4MjEyNSwtMTY0NTUwOTA1NV19
+eyJoaXN0b3J5IjpbLTIwNzE4MTM1MDUsLTE2NDU1MDkwNTVdfQ
+==
 -->
