@@ -5,7 +5,7 @@
 -   L'entretien d’explicitation, développé par Pierre Vermersch, est une méthodologie permettant d’amener une personne à expliciter ses actions, y compris les dimensions implicites et préréfléchies.
 -   Cette technique s’adresse à des professionnels variés (enseignants, formateurs, managers, consultants) souhaitant aider les autres à prendre conscience de leurs processus cognitifs et procéduraux.
 
-
+----------
 ## 2. **Problématique principale**
 
 -   **Difficulté de verbalisation** :
@@ -13,7 +13,7 @@
     2.  La verbalisation nécessite un retour réfléchissant sur l’action.
     3.  La médiation pour expliciter ces actions n’est pas intuitive et demande une formation spécifique.
 
-
+----------
 ## 3. **Objectifs et méthode**
 
 -   **But de l’entretien d’explicitation** :
@@ -25,7 +25,7 @@
     
     -   Mise en mots des dimensions vécues, singulières et procédurales de l’action, en évitant les aspects conceptuels ou émotionnels.
 
-
+----------
 ## 4. **Conditions et principes**
 
 -   **Conditions de réussite** :
@@ -39,7 +39,7 @@
     2.  Relances pour approfondir le vécu de l’action (gestes, mémoire sensorielle).
     3.  Guidage non directif pour maintenir l’interviewé centré sur son vécu.
 
-
+----------
 ## 5. **Déroulement de l’entretien**
 
 -   **Étapes principales** :
@@ -51,7 +51,7 @@
 -   **Relances** : Aiguiller l’interviewé sans diriger, tout en revenant sur des informations lacunaires ou floues.
     
 
-
+----------
 ## 6. **Principes éthiques et relationnels**
 
 -   **Contrat de communication** :
@@ -63,7 +63,7 @@
     -   Différenciation entre la position **formelle** (savoir abstrait) et **incarnée** (revécu de l’action).
     -   L’entretien vise à équilibrer ces deux positions pour enrichir la compréhension.
   
-
+----------
 ## 7. **Les enjeux du préréfléchi**
 
 -   **Difficultés psychologiques** :
@@ -74,7 +74,7 @@
     
     -   L’explicitation agit comme un levier pour améliorer la performance, détecter les erreurs et approfondir l’expertise.
 
-
+----------
 ## 8. **Applications pratiques**
 
 -   Contextes d’utilisation :
@@ -86,10 +86,10 @@
     
     -   Techniques pour stimuler l’évocation sensorielle et accéder au souvenir détaillé de l’action.
 
-
+----------
 ## 9. **Conclusion**
 
 L'entretien d’explicitation, basé sur une démarche méthodique et respectueuse, est un outil puissant pour explorer les dimensions implicites des actions humaines. Il favorise la compréhension de l'expérience individuelle et permet un développement personnel et professionnel ciblé.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTcyNjIxNV19
+eyJoaXN0b3J5IjpbLTEyNjc1NjAxODUsMTk2NTcyNjIxNV19
 -->
