@@ -1,6 +1,6 @@
 # La remédiation
 
-### **1. La posture du formateur-médiateur**
+## **1. La posture du formateur-médiateur**
 
 Le formateur-médiateur joue un rôle clé dans la facilitation des apprentissages, notamment en adaptant l'environnement pédagogique et en fournissant des outils pour surmonter les difficultés. Cette posture s'appuie sur plusieurs théories, notamment celles de Reuven Feuerstein et Alain Moal.
 
@@ -14,7 +14,7 @@ Ces rôles peuvent être cumulatifs, adaptés aux besoins spécifiques de chaque
 
 ----------
 
-### **2. La complexité des difficultés d’apprentissage**
+## **2. La complexité des difficultés d’apprentissage**
 
 Les difficultés d’apprentissage influencent négativement les stagiaires et peuvent mener à des échecs ou abandons. Ces difficultés sont souvent multifactorielles et peuvent provenir :
 
@@ -30,7 +30,7 @@ Les difficultés d’apprentissage influencent négativement les stagiaires et p
 
 ----------
 
-### **3. Utilisation de la méthode diagnostique**
+## **3. Utilisation de la méthode diagnostique**
 
 
 Cette section explore les étapes et les outils nécessaires pour identifier, comprendre et surmonter les difficultés d’apprentissage rencontrées par les apprenants. Elle repose sur une analyse structurée et des entretiens ciblés pour construire des stratégies de remédiation.
@@ -44,8 +44,6 @@ La méthode diagnostique vise à :
 -   Accompagner l’apprenant dans son parcours pour surmonter ces obstacles.
 
 Elle est structurée en **trois étapes principales**, chacune comportant des sous-phases et des objectifs spécifiques.
-
-----------
 
 #### **2. Les trois étapes de la méthode diagnostique**
 
@@ -65,7 +63,6 @@ L’objectif est d’explorer la situation problématique afin de mieux cerner l
         -   Mettre en relation les éléments pour donner un sens global à la situation.
     -   Synthétiser ces données pour permettre à l’apprenant de mieux comprendre sa difficulté et envisager des actions correctives.
 
-----------
 
 ##### **Étape 2 : Formulation et vérification des hypothèses de causes**
 
@@ -81,8 +78,6 @@ Cette étape consiste à identifier les causes potentielles de la difficulté et
     -   Planifier des actions ou des observations pour tester ces hypothèses.
     -   Valider, en collaboration avec l’apprenant, les causes explicatives retenues et formuler un diagnostic précis.
 
-----------
-
 ##### **Étape 3 : Hypothèses de remédiation de la difficulté**
 
 Cette étape vise à transformer les résultats de l’analyse diagnostique en actions concrètes.
@@ -96,7 +91,6 @@ Cette étape vise à transformer les résultats de l’analyse diagnostique en a
     -   Utiliser un guide des remédiations classées par type de difficulté pour trouver des pistes adaptées.
     -   Favoriser une approche évolutive où les solutions peuvent être ajustées au fur et à mesure des retours d’expérience.
 
-----------
 
 #### **3. Processus de conduite d’entretien**
 
@@ -116,7 +110,7 @@ Le diagnostic des difficultés nécessite souvent un entretien structuré avec l
     -   Réaliser un retour à chaud où chacun partage ses ressentis.
     -   Formaliser un compte-rendu structuré pour assurer un suivi efficace.
 
-----------
+
 
 #### **4. Les points clés d’un compte-rendu d’entretien**
 
@@ -126,7 +120,7 @@ Le compte-rendu n’est pas une transcription exhaustive, mais un outil synthét
 -   Les hypothèses validées ou réfutées.
 -   Les pistes de remédiation proposées.
 
-----------
+
 
 #### **5. Techniques complémentaires pour enrichir la démarche**
 
@@ -135,10 +129,10 @@ Le compte-rendu n’est pas une transcription exhaustive, mais un outil synthét
 
 ----------
 
-### **4. Pour conclure**
+## **4. Pour conclure**
 
 -   Le rôle du formateur est de transformer une situation problématique en une opportunité d’apprentissage, sans faire à la place de l’apprenant.
 -   L’accompagnement exige du temps, une posture adaptée et l’utilisation d’outils tels que les techniques d’aide à l’explicitation pour comprendre la difficulté en profondeur.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4Mjg5MzFdfQ==
+eyJoaXN0b3J5IjpbLTU2Nzc0MzIxMyw5OTgyODkzMV19
 -->
