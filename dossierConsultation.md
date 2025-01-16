@@ -5,6 +5,7 @@ Les dossiers de consultation dans le cadre de la formation professionnelle const
 
 Les dossiers de consultation, parfois appelés « dossiers de prise en charge » ou « dossiers d’habilitation », rassemblent l’ensemble des documents nécessaires à la présentation d’une action de formation pour son financement ou pour sa validation par des organismes financeurs (comme les OPCO, Pôle Emploi, ou les régions). Ce dossier doit prouver que la formation respecte les obligations légales et qu'elle répond aux besoins spécifiques de l’entreprise, des salariés ou des demandeurs d'emploi.
 
+----------
 ### 2. **Objectifs des dossiers de consultation**
 
 Les principaux objectifs sont :
@@ -14,6 +15,7 @@ Les principaux objectifs sont :
 -   **Répondre aux critères de certification** : Depuis la mise en place du référentiel Qualiopi, les organismes de formation doivent prouver leur conformité aux exigences qualité.
 -   **Faciliter le financement** : Permettre aux financeurs de statuer sur l’éligibilité et le montant du financement à accorder.
 
+----------
 ### 3. **Contenu du dossier de consultation**
 
 Le contenu précis peut varier selon le type de formation, le financeur, et le public visé. En général, le dossier comprend les sections suivantes :
@@ -52,6 +54,7 @@ Le contenu précis peut varier selon le type de formation, le financeur, et le p
 -   **Conditions générales de vente** : Règles encadrant l’annulation, le remboursement, et les délais de rétractation.
 -   **Documents d’assiduité** : Fiches de présence pour le suivi de la participation des apprenants, crucial pour les formations financées.
 
+----------
 ### 4. **Conformité au référentiel Qualiopi**
 
 La certification Qualiopi impose des critères spécifiques que les organismes de formation doivent respecter pour garantir la qualité des formations. Les dossiers de consultation doivent démontrer cette conformité, incluant :
@@ -60,6 +63,7 @@ La certification Qualiopi impose des critères spécifiques que les organismes d
 -   **La qualité des moyens pédagogiques, techniques et d’encadrement**.
 -   **L'évaluation des compétences acquises** et l’amélioration continue de l’offre de formation.
 
+----------
 ### 5. **Processus de validation des dossiers**
 
 Une fois complété, le dossier de consultation est soumis à l’organisme financeur, qui examine les documents pour vérifier :
@@ -70,6 +74,7 @@ Une fois complété, le dossier de consultation est soumis à l’organisme fina
 
 Le financeur, après étude, décide d’accorder ou non la prise en charge partielle ou totale de la formation.
 
+----------
 ### 6. **Suivi et bilan de la formation**
 
 À l’issue de la formation, le dossier de consultation est complété par un **bilan pédagogique** et des **documents de suivi** :
@@ -127,5 +132,5 @@ La partie RGPD d’un dossier de consultation est essentielle pour démontrer qu
 
 Les dossiers de consultation sont essentiels dans la formation professionnelle en France. Ils garantissent la transparence et la qualité de la formation, facilitant ainsi le financement et permettant une réponse efficace aux exigences légales et professionnelles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NzQxMDg1XX0=
+eyJoaXN0b3J5IjpbOTEwMDYwNzg3LDI0OTc0MTA4NV19
 -->
