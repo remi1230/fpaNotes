@@ -1,12 +1,12 @@
 # Les dossiers de consultation
 Les dossiers de consultation dans le cadre de la formation professionnelle constituent un ensemble de documents essentiels, principalement utilisés par les organismes de formation, les financeurs, et les entreprises qui souhaitent se conformer aux exigences légales et garantir la qualité des formations proposées. Ils regroupent des informations et des justificatifs permettant d’évaluer la conformité des formations et facilitent les processus de financement, de suivi, et de contrôle.
 
-### 1. **Définition des dossiers de consultation**
+## 1. **Définition des dossiers de consultation**
 
 Les dossiers de consultation, parfois appelés « dossiers de prise en charge » ou « dossiers d’habilitation », rassemblent l’ensemble des documents nécessaires à la présentation d’une action de formation pour son financement ou pour sa validation par des organismes financeurs (comme les OPCO, Pôle Emploi, ou les régions). Ce dossier doit prouver que la formation respecte les obligations légales et qu'elle répond aux besoins spécifiques de l’entreprise, des salariés ou des demandeurs d'emploi.
 
 ----------
-### 2. **Objectifs des dossiers de consultation**
+## 2. **Objectifs des dossiers de consultation**
 
 Les principaux objectifs sont :
 
@@ -16,7 +16,7 @@ Les principaux objectifs sont :
 -   **Faciliter le financement** : Permettre aux financeurs de statuer sur l’éligibilité et le montant du financement à accorder.
 
 ----------
-### 3. **Contenu du dossier de consultation**
+## 3. **Contenu du dossier de consultation**
 
 Le contenu précis peut varier selon le type de formation, le financeur, et le public visé. En général, le dossier comprend les sections suivantes :
 
@@ -55,7 +55,7 @@ Le contenu précis peut varier selon le type de formation, le financeur, et le p
 -   **Documents d’assiduité** : Fiches de présence pour le suivi de la participation des apprenants, crucial pour les formations financées.
 
 ----------
-### 4. **Conformité au référentiel Qualiopi**
+## 4. **Conformité au référentiel Qualiopi**
 
 La certification Qualiopi impose des critères spécifiques que les organismes de formation doivent respecter pour garantir la qualité des formations. Les dossiers de consultation doivent démontrer cette conformité, incluant :
 
@@ -64,7 +64,7 @@ La certification Qualiopi impose des critères spécifiques que les organismes d
 -   **L'évaluation des compétences acquises** et l’amélioration continue de l’offre de formation.
 
 ----------
-### 5. **Processus de validation des dossiers**
+## 5. **Processus de validation des dossiers**
 
 Une fois complété, le dossier de consultation est soumis à l’organisme financeur, qui examine les documents pour vérifier :
 
@@ -75,7 +75,7 @@ Une fois complété, le dossier de consultation est soumis à l’organisme fina
 Le financeur, après étude, décide d’accorder ou non la prise en charge partielle ou totale de la formation.
 
 ----------
-### 6. **Suivi et bilan de la formation**
+## 6. **Suivi et bilan de la formation**
 
 À l’issue de la formation, le dossier de consultation est complété par un **bilan pédagogique** et des **documents de suivi** :
 
@@ -83,7 +83,7 @@ Le financeur, après étude, décide d’accorder ou non la prise en charge part
 -   **Retour des apprenants** : Enquête de satisfaction ou feedback des participants.
 -   **Analyse de l’impact** : Revue des objectifs initiaux et des résultats obtenus.
 
-## RGPD
+## 7. RGPD
 ### 1. **Section dédiée à la Conformité RGPD**
 
 -   Une partie du dossier de consultation est consacrée à la **conformité aux lois et règlements** en matière de protection des données, principalement le RGPD en Europe. Cette section précise les mesures mises en place par le candidat pour garantir que toutes les données personnelles traitées dans le cadre de la prestation seront protégées.
@@ -124,13 +124,15 @@ Le financeur, après étude, décide d’accorder ou non la prise en charge part
 -   Si l’entreprise a nommé un **Délégué à la Protection des Données** (DPO), cela peut être mentionné dans le dossier, avec ses coordonnées, pour rassurer le commanditaire sur le fait que la conformité au RGPD est suivie de près.
 -   Le DPO est souvent le point de contact principal pour toute question relative à la gestion des données personnelles dans le cadre de la prestation.
 
+----------
 ### En résumé
 
 La partie RGPD d’un dossier de consultation est essentielle pour démontrer que l’entreprise respecte la réglementation européenne sur la protection des données et qu’elle dispose de toutes les mesures nécessaires pour protéger les données personnelles. Elle permet de clarifier les pratiques de collecte, de traitement, de sécurisation, et de gestion des données en cas de sous-traitance, tout en garantissant les droits des personnes concernées.
 
+----------
 ### Conclusion
 
 Les dossiers de consultation sont essentiels dans la formation professionnelle en France. Ils garantissent la transparence et la qualité de la formation, facilitant ainsi le financement et permettant une réponse efficace aux exigences légales et professionnelles.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMDYwNzg3LDI0OTc0MTA4NV19
+eyJoaXN0b3J5IjpbMTM1ODU3NDM3NiwyNDk3NDEwODVdfQ==
 -->
